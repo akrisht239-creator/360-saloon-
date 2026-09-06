@@ -1,0 +1,6 @@
+{
+  "name": "360 Salon Varanasi",
+  "description": "Premium family salon in Vidyapeeth Road, Varanasi offering professional hair, makeup, skincare, nails, and grooming services. 4.8★ Google Rating with 3,458+ reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
